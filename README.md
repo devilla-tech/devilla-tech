@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco
 
-<!--
-**FranciscoVillacosta/Franciscovillacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+💻 Desarrollador de software  
+🔐 Interesado en Ciberseguridad  
+🤖 Desarrollo con ESP32 e IoT
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Visual Basic .NET
+- Python
+- HTML / CSS / JavaScript
+- SQLite
+- Firebase
+- ESP32 / Arduino
+- Git & GitHub
+
+## 🛠️ Proyectos
+
+### 💳 Sistema de control de pagos
+Sistema de escritorio para administrar alumnos, pagos,
+adeudos y reportes.
+
+### 🤖 LUMI
+Asistente basado en ESP32 para monitoreo y automatización.
+
+## 📚 Actualmente aprendiendo
+
+- Ciberseguridad
+- Desarrollo de software
+
+## 📫 fv7611806@gmail.com
